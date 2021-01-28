@@ -1,0 +1,35 @@
+{
+    "customers": [{
+            "id": 1,
+            "first_name": "Leanne Graham",
+            "last_name": "Bret",
+            "email": "Sincere@april.biz",
+            "address": "7/4 Caroline Street",
+            "number": "0454545455"
+        },
+        {
+            "id": 2,
+            "first_name": "Leanne Graham",
+            "last_name": "Bret",
+            "email": "Sincere@april.biz",
+            "address": "7/4 Caroline Street",
+            "number": "0454545455"
+        },
+        {
+            "id": 3,
+            "first_name": "Leanne Graham",
+            "last_name": "Bret",
+            "email": "Sincere@april.biz",
+            "address": "7/4 Caroline Street",
+            "number": "0454545455"
+        }, 
+        {
+            "id": 4,
+            "first_name": "Leanne Graham",
+            "last_name": "Bret",
+            "email": "Sincere@april.biz",
+            "address": "7/4 Caroline Street",
+            "number": "0454545455"
+        }
+    ]
+}

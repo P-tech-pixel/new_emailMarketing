@@ -1,0 +1,21 @@
+.addproduct {
+    padding-top: 50px;
+}
+.table {
+    padding-bottom: 20px;;
+}
+.navbar-nav{
+    padding-left:250px !important;
+}
+.navbar-expand .navbar-nav .nav-link {
+    padding-left: 4.5rem   !important;
+}
+.navbar-brand {
+
+    font-size: 2.25rem !important;
+    padding-left: 10px !important;
+}
+h3{
+    padding-left: 400px;
+    padding-bottom: 20px;
+}
